@@ -10,7 +10,7 @@ We have to make a lot of score in limitrd time .
 
 -This game can Show you score and hight score.
 
--This game can new game by click
+-This game can new game 
 
 -This game have a limitrd time.
 # Installtion
