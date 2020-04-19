@@ -4,7 +4,7 @@ Programming Fundamentals ll Project by Poochit Sakunthong Student ID : 623030079
 This game is about fish in fish tank.We have to contol fish go to eat food which drob in the tank and avoid eating poison .
 We have to make a lot of score in limitrd time .
 # Main Features
--This game can contol fish.
+-This game can contol fish.\n
 -This game can genarate food and poison all the time.
 -This game can Show you score and hight score.
 -This game have a limitrd time.
