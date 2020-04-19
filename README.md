@@ -12,4 +12,4 @@ We have to make a lot of score in limitrd time .
 
 -This game have a limitrd time.
 # Installtion
-Compile & run File name "game"
+Compile & run File name "Game"
